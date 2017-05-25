@@ -1,6 +1,6 @@
 function oneAway(str1, str2) {
   let charCount = {},
-      discrepancy1 = 0, // char discrpancy for first str
+      discrepancy1 = 0, // char discrepancy for first str
       discrepancy2 = 0;
 
   str1.split('').forEach(char => {
